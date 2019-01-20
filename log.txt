@@ -54,4 +54,18 @@ RT rating: R
 Country: Belgium, Germany, Canada, France, USA, UK
 language English, Mohawk
 plot A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
-actors Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+actors Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Phamtitle: A Scanner Darkly
+year: 2006
+rating: 7.1
+RT rating: R
+Country: USA
+language: English
+plot: An undercover cop in a not-too-distant future becomes involved with a dangerous new drug and begins to lose his own identity as a result.
+actors: Rory Cochrane, Robert Downey Jr., Mitch Baker, Keanu Reevestitle: Mr. Nobody
+year: 2009
+rating: 7.9
+RT rating: R
+Country: Belgium, Germany, Canada, France, USA, UK
+language: English, Mohawk
+plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham

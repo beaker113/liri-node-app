@@ -94,8 +94,15 @@ if (term === "do-what-it-says") {
             if (err) {
                 return console.log('Error occurred: ' + err);
             }
+            var songData =[
+                "Artist: " + data.tracks.items[0].album.artists[0].name,
+                "Album: " + data.tracks.items[0].album.name,
+                "Title: " + data.tracks.items[0].name,
+                "Spotify link: " + data.tracks.items[0].album.external_urls.spotify
+            ].join("\n")
+            console.log(songData)
 
-            console.log(data.tracks.items);
+            
         });
 
     })
