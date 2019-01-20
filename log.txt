@@ -1,0 +1,57 @@
+title: undefined
+year: 2005
+rating: 6.6
+RT rating: PG-13
+Country: undefined
+language English
+plot While helping his latest client woo the fine lady of his dreams, a professional "date doctor" finds that his game doesn't quite work on the gossip columnist with whom he's smitten.
+actors Will Smith, Eva Mendes, Kevin James, Amber Vallettatitle: undefined
+year: 2005
+rating: 6.6
+RT rating: PG-13
+Country: undefined
+language English
+plot While helping his latest client woo the fine lady of his dreams, a professional "date doctor" finds that his game doesn't quite work on the gossip columnist with whom he's smitten.
+actors Will Smith, Eva Mendes, Kevin James, Amber Vallettatitle: undefined
+year: 2008
+rating: 9.0
+RT rating: PG-13
+Country: undefined
+language English, Mandarin
+plot When the menace known as the Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham. The Dark Knight must accept one of the greatest psychological and physical tests of his ability to fight injustice.
+actors Christian Bale, Heath Ledger, Aaron Eckhart, Michael Cainetitle: undefined
+year: 2008
+rating: 9.0
+RT rating: PG-13
+Country: USA, UK
+language English, Mandarin
+plot When the menace known as the Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham. The Dark Knight must accept one of the greatest psychological and physical tests of his ability to fight injustice.
+actors Christian Bale, Heath Ledger, Aaron Eckhart, Michael Cainetitle: The Dark Knight
+year: 2008
+rating: 9.0
+RT rating: PG-13
+Country: USA, UK
+language English, Mandarin
+plot When the menace known as the Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham. The Dark Knight must accept one of the greatest psychological and physical tests of his ability to fight injustice.
+actors Christian Bale, Heath Ledger, Aaron Eckhart, Michael Cainetitle: undefined
+year: undefined
+rating: undefined
+RT rating: undefined
+Country: undefined
+language undefined
+plot undefined
+actors undefinedtitle: undefined
+year: 1977
+rating: 8.6
+RT rating: PG
+Country: USA
+language English
+plot Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader.
+actors Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushingtitle: Mr. Nobody
+year: 2009
+rating: 7.9
+RT rating: R
+Country: Belgium, Germany, Canada, France, USA, UK
+language English, Mohawk
+plot A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+actors Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham

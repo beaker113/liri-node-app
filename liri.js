@@ -17,7 +17,7 @@ if (term === "spotify-this-song") {
     }
 
     var songName = titles.join(" ");
-
+    
     var keys = require("./keys")
     var spotify = new Spotify(keys.Spotify)
 
@@ -29,11 +29,18 @@ if (term === "spotify-this-song") {
         if (err) {
             return console.log('Error occurred: ' + err);
         }
-
-        console.log(data.tracks.items.artists);
+        
+       
+        var songData =[
+            "Artist: " + data.tracks.items[0].album.artists[0].name,
+            "Album: " + data.tracks.items[0].album.name,
+            "Title: " + data.tracks.items[0].name,
+            "Spotify link: " + data.tracks.items[0].album.external_urls.spotify
+        ].join("\n")
+        console.log(songData)
     });
 
-   
+    
 
 }
 
@@ -51,8 +58,24 @@ if (term === "movie-this") {
     axios.get("http://www.omdbapi.com/?t=" + movie + "&apikey=trilogy")
         .then(function (response) {
 
-            console.log(response);
-
+            
+            var res = response.data
+            var movieData =[
+               "title: " + res.Title,
+               "year: " + res.Year,
+               "rating: " + res.imdbRating,
+               "RT rating: " + res.Rated,
+               "Country: " + res.Country,
+               "language: " + res.Language,
+               "plot: " + res.Plot,
+               "actors: " + res.Actors
+            ].join("\n");
+            fs.appendFile("log.txt", movieData, function(err) {
+                if(err) throw err;
+                console.log(movieData);
+            })
+    
+            console.log(movieData)
         })
         .catch(function (error) {
             console.log(error);
